@@ -1,0 +1,25 @@
+{
+  "name": "zeppelin-os-exp",
+  "version": "1.0.0",
+  "description": "Experimenting with zeppelin os.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vbledar/zeppelin-os-exp.git"
+  },
+  "keywords": [
+    "zeppelinos",
+    "ethereum",
+    "smartcontracts",
+    "nodejs"
+  ],
+  "author": "Bledar Vasili",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/vbledar/zeppelin-os-exp/issues"
+  },
+  "homepage": "https://github.com/vbledar/zeppelin-os-exp#readme"
+}
