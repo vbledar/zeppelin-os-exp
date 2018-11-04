@@ -21,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/vbledar/zeppelin-os-exp/issues"
   },
-  "homepage": "https://github.com/vbledar/zeppelin-os-exp#readme"
+  "homepage": "https://github.com/vbledar/zeppelin-os-exp#readme",
+  "dependencies": {
+    "zos-lib": "2.0.1"
+  }
 }

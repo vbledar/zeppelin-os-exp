@@ -69,3 +69,9 @@ typings/
 !.vscode/tasks.json
 !.vscode/launch.json
 !.vscode/extensions.json
+
+# IntelliJ IDEA
+*.iml
+
+# Solidity/Truffle build directory
+build
