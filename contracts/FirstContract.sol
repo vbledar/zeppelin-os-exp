@@ -11,4 +11,16 @@ contract FirstContract is Initializable {
     x = _x;
     s = _s;
   }
+
+  function increment() public {
+    x += 1;
+  }
+
+  function decrease() public {
+    x -= 1;
+  }
+
+  function decreaseBy(uint256 _value) public {
+    x -= _value;
+  }
 }
